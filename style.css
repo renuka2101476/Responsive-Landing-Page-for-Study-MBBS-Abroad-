@@ -1,4 +1,4 @@
-/* Custom CSS (if needed) */
+
 body {
     font-family: 'Arial', sans-serif;
   }
@@ -42,22 +42,19 @@ body {
   }
 
   .cta-button:hover {
-    background-color: #e2e8f0; /* Light gray on hover */
+    background-color: #e2e8f0; 
   }
 
-
-/* Enable smooth horizontal scrolling */
 .flex {
   scroll-behavior: smooth;
 }
 
-/* Hide scrollbar */
 .scrollbar-hide {
-  scrollbar-width: none; /* Firefox */
+  scrollbar-width: none;
 }
 
 .scrollbar-hide::-webkit-scrollbar {
-  display: none; /* Chrome, Safari */
+  display: none;
 }
 
 
